@@ -1,0 +1,37 @@
+{
+    "kitaplar": [
+        {
+            "id": 1,
+            "ad": "Sefiller",
+            "yazar": "Victor Hugo",
+            "kategori": "Roman",
+            "yayin_yili": 1862,
+            "mevcut_mu": false
+        }
+    ],
+    "kullanicilar": [
+        {
+            "id": 1,
+            "ad_soyad": "Ali Veli",
+            "ogrenci_no": "12345"
+        }
+    ],
+    "odunc_kayitlari": [
+        {
+            "id": 1,
+            "kitap_id": 1,
+            "kullanici_id": 1,
+            "alis_tarihi": "23.06.2026",
+            "teslim_tarihi": null,
+            "iade_edildi": true
+        },
+        {
+            "id": 1,
+            "kitap_id": 1,
+            "kullanici_id": 1,
+            "alis_tarihi": "23.06.2026",
+            "teslim_tarihi": null,
+            "iade_edildi": false
+        }
+    ]
+}
