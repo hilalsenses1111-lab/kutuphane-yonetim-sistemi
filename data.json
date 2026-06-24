@@ -7,6 +7,158 @@
             "kategori": "Roman",
             "yayin_yili": 1862,
             "mevcut_mu": false
+        },
+        {
+            "id": 2,
+            "ad": "Ateşten Gömlek",
+            "yazar": "Halide Edip Adıvar",
+            "kategori": "Roman",
+            "yayin_yili": 1922,
+            "mevcut_mu": true
+        },
+        {
+            "id": 3,
+            "ad": "Suç ve Ceza",
+            "yazar": "Fyodor Dostoyevski",
+            "kategori": "Roman",
+            "yayin_yili": 1866,
+            "mevcut_mu": true
+        },
+        {
+            "id": 4,
+            "ad": "Kürk Mantolu Madonna",
+            "yazar": "Sabahattin Ali",
+            "kategori": "Roman",
+            "yayin_yili": 1943,
+            "mevcut_mu": true
+        },
+        {
+            "id": 5,
+            "ad": "Tutunamayanlar",
+            "yazar": "Oğuz Atay",
+            "kategori": "Roman",
+            "yayin_yili": 1971,
+            "mevcut_mu": true
+        },
+        {
+            "id": 6,
+            "ad": "Çalıkuşu",
+            "yazar": "Reşat Nuri Güntekin",
+            "kategori": "Roman",
+            "yayin_yili": 1922,
+            "mevcut_mu": true
+        },
+        {
+            "id": 7,
+            "ad": "Beyaz Diş",
+            "yazar": "Jack London",
+            "kategori": "Macera",
+            "yayin_yili": 1906,
+            "mevcut_mu": true
+        },
+        {
+            "id": 8,
+            "ad": "Simyacı",
+            "yazar": "Paulo Coelho",
+            "kategori": "Roman",
+            "yayin_yili": 1988,
+            "mevcut_mu": true
+        },
+        {
+            "id": 9,
+            "ad": "1984",
+            "yazar": "George Orwell",
+            "kategori": "Distopya",
+            "yayin_yili": 1945,
+            "mevcut_mu": true
+        },
+        {
+            "id": 10,
+            "ad": "Hayvan Çiftliği",
+            "yazar": "George Orwell",
+            "kategori": "Distopya",
+            "yayin_yili": 1945,
+            "mevcut_mu": true
+        },
+        {
+            "id": 11,
+            "ad": "Dönüşüm",
+            "yazar": "Franz Kafka",
+            "kategori": "Roman",
+            "yayin_yili": 1915,
+            "mevcut_mu": true
+        },
+        {
+            "id": 12,
+            "ad": "Nutuk",
+            "yazar": "Mustafa Kemal Atatürk",
+            "kategori": "Tarih",
+            "yayin_yili": 1927,
+            "mevcut_mu": true
+        },
+        {
+            "id": 13,
+            "ad": "Şeker Portakalı",
+            "yazar": "José Mauro de Vasconcelos",
+            "kategori": "Roman",
+            "yayin_yili": 1968,
+            "mevcut_mu": true
+        },
+        {
+            "id": 14,
+            "ad": "Küçük Prens",
+            "yazar": "Antoine de Saint-Exupéry",
+            "kategori": "Çocuk",
+            "yayin_yili": 1943,
+            "mevcut_mu": true
+        },
+        {
+            "id": 15,
+            "ad": "Robinson Crusoe",
+            "yazar": "Daniel Defoe",
+            "kategori": "Macera",
+            "yayin_yili": 1719,
+            "mevcut_mu": true
+        },
+        {
+            "id": 16,
+            "ad": "Don Kişot",
+            "yazar": "Miguel de Cervantes",
+            "kategori": "Roman",
+            "yayin_yili": 1605,
+            "mevcut_mu": true
+        },
+        {
+            "id": 17,
+            "ad": "Vadideki Zambak",
+            "yazar": "Balzac",
+            "kategori": "Roman",
+            "yayin_yili": 1836,
+            "mevcut_mu": true
+        },
+        {
+            "id": 18,
+            "ad": "Yeraltından Notlar",
+            "yazar": "Dostoyevski",
+            "kategori": "Roman",
+            "yayin_yili": 1864,
+            "mevcut_mu": true
+        },
+        {
+            "id": 19,
+            "ad": "Kinyas ve Kayra",
+            "yazar": "Hakan Günday",
+            "kategori": "Roman",
+            "yayin_yili": 2000,
+            "mevcut_mu": true
+        },
+        {
+            "id": 20,
+            "ad": "Bilinmeyen Bir Kadının Mektubu",
+            "yazar": "Stefan Zweig",
+            "kategori": "Roman",
+            "yayin_yili": 1922,
+            "mevcut_mu": true
         }
     ],
     "kullanicilar": [
