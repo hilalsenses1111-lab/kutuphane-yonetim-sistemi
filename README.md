@@ -64,6 +64,22 @@ python arayuz.py
 
 ---
 
+## Kullanım
+
+Program çalıştırıldığında grafiksel kullanıcı arayüzü açılır. Kullanıcı aşağıdaki işlemleri gerçekleştirebilir:
+
+* Yeni kitap ekleme
+* Kayıtlı kitapları görüntüleme
+* Kitap güncelleme ve silme
+* Kitap arama işlemleri
+* Kullanıcı ekleme ve listeleme
+* Kitap ödünç verme ve iade işlemleri
+* Ödünç kayıtlarını görüntüleme
+
+Tüm veriler `data.json` dosyasında saklanır ve program yeniden açıldığında otomatik olarak yüklenir.
+
+---
+
 ## Arayüz Görüntüsü
 
 Aşağıda uygulamanın grafiksel kullanıcı arayüzüne ait ekran görüntüsü yer almaktadır.
@@ -82,10 +98,9 @@ Projenin çalışma mantığı ve işlem akışı aşağıdaki akış şeması i
 
 ## Proje Tasarımı
 
-Projenin tasarım süreci Tinkercad ortamında planlanmış ve akış şeması oluşturulmuştur.
+Proje geliştirilmeden önce algoritma akışı planlanmış ve sistemin çalışma mantığı akış şeması ile modellenmiştir. Uygulama nesne yönelimli programlama yaklaşımı kullanılarak geliştirilmiş olup kitap, kullanıcı, ödünç kaydı ve kütüphane yönetimi için ayrı sınıflar oluşturulmuştur.
 
-**Tinkercad Tasarım Bağlantısı:**
-BURAYA_TINKERCAD_LINKINI_EKLE
+Verilerin kalıcı olarak saklanabilmesi amacıyla JSON veri yapısı kullanılmıştır.
 
 ---
 
@@ -94,4 +109,5 @@ BURAYA_TINKERCAD_LINKINI_EKLE
 **Hilal Şenses**
 Bilgisayar ve Öğretim Teknolojileri Eğitimi (BÖTE) – 2. Sınıf
 
-İleri Programlama Dersi Dönem Sonu Projesi
+**İleri Programlama Dersi Dönem Sonu Projesi**
+
